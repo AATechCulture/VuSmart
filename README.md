@@ -6,7 +6,7 @@ Challenge Statement(s) Addressed 🎯
 
 Project Description 🤯
 
-  This app is a comprehensive solution for single parents, combining a centralized marketplace, AI-powered meal planning, predictive demand analysis, and financial guidance. The marketplace allows parents to purchase essentials like diapers and clothes, earning travel miles for every dollar spent. The app also offers AI-driven features like personalized weekly meal recommendations and demand prediction to reduce waste and ensure availability. Integrated Google Maps highlights nearby beneficial businesses based on the user's location.
+  This app is a comprehensive solution for single parents, combining a centralized marketplace, AI-powered meal planning, predictive demand analysis, and financial guidance. The marketplace allows parents to purchase essentials like diapers and clothes, earning points that can be transfered into gift cards , local deals, etc. The app also offers AI-driven features like personalized weekly meal recommendations and demand prediction to reduce waste and ensure availability. Integrated Google Maps highlights nearby beneficial businesses based on the user's location.
 
 Project Value 💰
 
@@ -15,24 +15,7 @@ Project Value 💰
 Tech Overview 💻
 
   Frontend: Flutter and Dart for cross-platform mobile development.
-  Third-Party Integrations: Google Maps API, Payment Gateway API, Insurance & Investment APIs.
-  AI Tools: AI models for meal planning and predictive analysis.
-  Cloud Hosting: Firebase Hosting for seamless app performance.
-
-Link to Video Pitch 📹
-
-...point us to the short clip that tells us about your solution 😄
-
-Link to Demo Presentation 📽
-
-...point us to your PPT or Canva slides 😍
-
-Team Checklist ✅
- Team photo
- Team Slack channel
- Communication established with mentor
- Repo creation from this template
- Hangar registration
+  
  
 Project Checklist 🏁
 
