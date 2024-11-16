@@ -1,60 +1,57 @@
-### TL;DR 🚨 
-This is a repository template containing all the information that needs to accompany your project.
+Single Parents App
 
-Feel free to use any languages or frameworks, but the following information must be filled out in your project's README before hacking ends.
-_______________
-_______________
+Challenge Statement(s) Addressed 🎯
 
-# Single Parents 
+  How might we improve the quality of life for single parents by addressing challenges related to food, finances, and health?
 
-## Challenge Statement(s) Addressed 🎯
-**...include the challenge statement(s) the project worked to address**
+Project Description 🤯
 
-How might improve the quality of life for single parents , as it relates to food , finance and health
+  This app is a comprehensive solution for single parents, combining a centralized marketplace, AI-powered meal planning, predictive demand analysis, and financial guidance. The marketplace allows parents to purchase essentials like diapers and clothes, earning travel miles for every dollar spent. The app also offers AI-driven features like personalized weekly meal recommendations and demand prediction to reduce waste and ensure availability. Integrated Google Maps highlights nearby beneficial businesses based on the user's location.
 
-## Project Description 🤯
-**....at least 3 sentences describing what the project does and how it works**
+Project Value 💰
 
-## Project Value 💰
-**....at least 3 sentences describing your target customer and tangible benefits from your solution**
+  The app is targeted at single parents looking for streamlined access to essential services and resources. It simplifies shopping with a centralized hub while promoting financial wellness through investment and life insurance recommendations. By earning travel miles with purchases and providing meal planning and waste reduction insights, it empowers parents to save time and money, enabling a better work-life balance.
 
-## Tech Overview 💻
-**... what tech was used to bring this project to life?**
+Tech Overview 💻
 
-Example:
-* FastAPI
-* Hugging Face AI Models
-* Next.js
-* Dart
-*  * Flutter
+  Frontend: Flutter and Dart for cross-platform mobile development.
+  Third-Party Integrations: Google Maps API, Payment Gateway API, Insurance & Investment APIs.
+  AI Tools: AI models for meal planning and predictive analysis.
+  Cloud Hosting: Firebase Hosting for seamless app performance.
 
-### Link to Video Pitch 📹
-**...point us to the short clip that tells us about your solution 😄**
+Link to Video Pitch 📹
 
-### Link to Demo Presentation 📽
-**...point us to your PPT or Canva slides 😍**
+...point us to the short clip that tells us about your solution 😄
 
-### Team Checklist ✅
-- [ ] Team photo
-- [ ] Team Slack channel
-- [ ] Communication established with mentor
-- [ ] Repo creation from this template
-- [ ] Hangar registration
+Link to Demo Presentation 📽
 
-### Project Checklist 🏁
-- [ ] Presentation complete and linked
-- [ ] Video pitch recorded and linked
-- [ ] Code merged to main branch
+...point us to your PPT or Canva slides 😍
 
-### School Name 🏫
-The ABC School
+Team Checklist ✅
+ Team photo
+ Team Slack channel
+ Communication established with mentor
+ Repo creation from this template
+ Hangar registration
+ 
+Project Checklist 🏁
 
-### Team Name 🏷
-Coding Costars
+Presentation complete and linked
+Video pitch recorded and linked
+Code merged to main branch
 
-### ✨ Contributors ✨
-**...tell the world who you and your team are 🙂**
-* Team member X 
-* Team member Y 
-* Team member Z 
+School Name 🏫
 
+  Voorhees University
+
+Team Name 🏷
+
+  VU Smart
+
+✨ Contributors ✨
+
+  Ashley Chambers
+  Nashon Gary
+  Natayo Munroe
+  McKale Muray
+  Bernyla Sparks
